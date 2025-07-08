@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" height="220" alt="Pollo Showcase">
-</p>
+
+  <img src="assets/Group 9.png" height="220" alt="Pollo Showcase">
 
 # 🐾 Pollo - Pet Marketplace & Veterinary App
 
@@ -31,8 +30,11 @@
 ## 📱 Screenshots
 
 <p align="center">
-  <img src="PASTE_IMAGE_LINK_HERE" height="400">
-  <img src="PASTE_IMAGE_LINK_HERE" height="400">
+  <img src="assets/pollo1.png" height="400">
+  <img src="assets/pollo3.png" height="400">
+  <img src="assets/pollo4.png" height="400">
+  <img src="assets/Vet Pharmacy.png" height="400">
+  <img src="assets/Fillter.png" height="400">
 </p>
 
 ---
